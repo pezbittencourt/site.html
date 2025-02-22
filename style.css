@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 0;
+    background-color: rgb(255, 255, 255)
+}
+
+#title {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 123, 0);
+    text-align: center;
+}
+
+
+#discografia {
+    color: rgb(238, 48, 48);
+    text-align: center;
+
+}
+
+#linksalbuns {
+    background-color: rgb(255, 255, 255);
+    color: rgb(243, 243, 243);
+
+}
+
